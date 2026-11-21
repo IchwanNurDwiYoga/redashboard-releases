@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "published_at": "2026-11-21",
+  "release_url": "https://github.com/IchwanNurDwiYoga/redashboard-releases/releases/latest",
+  "download_url": "",
+  "sha256": "",
+  "changelog": [
+    "Rilis awal ReDashboard untuk Windows 10/11",
+    "Dashboard monitoring sistem, media & lirik, game hub, workspace coding, dan folder favorit",
+    "Fitur Backup & Restore (manual JSON selektif + auto-backup lokal)",
+    "Fitur pemeriksaan pembaruan aplikasi otomatis"
+  ]
+}
