@@ -45,10 +45,14 @@ Dikembangkan oleh **IchwanNurDwiYoga**
 
 | Game Hub | Code Workspace |
 | :---: | :---: |
-| ![Game Hub](PASTE_URL_GAMBAR_GAME) | ![Code Workspace](PASTE_URL_GAMBAR_CODE) |
-| *Library game, deteksi otomatis launcher & statistik sesi bermain* | *Project terbaru, peluncur IDE & heatmap aktivitas coding* |
+| <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be559c30-3284-4a5a-84f0-8c14318ccf0f" />
+ | <img width="1919" height="1079" alt="Tidak berjudul" src="https://github.com/user-attachments/assets/28f08ee9-4f14-42f9-93ba-a9617b030247" />
+ |
+| *Library game, deteksi otomatis launcher & statistik sesi bermain (masih dalam tahap pengembangan)* | *Project terbaru, peluncur IDE & heatmap aktivitas coding* |
 
 | Folder Favorit | Settings & Backup |
 | :---: | :---: |
-| ![Folder Favorit](PASTE_URL_GAMBAR_FOLDER) | ![Settings & Backup](PASTE_URL_GAMBAR_SETTINGS) |
+| <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/67a12a13-6dee-4db5-9f95-1dd6d77ba955" />
+ | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a270fa6-05ad-4ab9-8f2c-f5236169e155" />
+ |
 | *Akses cepat folder kerja, pin favorit & pratinjau drive* | *Tema musiman, Pixel Mode, Backup/Restore & pembaruan otomatis* |
