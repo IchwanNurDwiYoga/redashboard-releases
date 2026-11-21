@@ -33,3 +33,22 @@ ReDashboard berjalan secara lokal di perangkat Anda dan tidak mengirimkan data t
 ---
 
 Dikembangkan oleh **IchwanNurDwiYoga**
+
+## Tangkapan Layar
+
+### Halaman Desktop
+*Pemantauan sistem real-time, Now Playing & lirik, cuaca, kalender KHGT, catatan jadwal, dan Quick Launch.*
+
+![Halaman Desktop ReDashboard]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ca280d5-a0ac-4fe0-9a2b-68b0d9f2ab9d" />
+
+### Halaman Lainnya
+
+| Game Hub | Code Workspace |
+| :---: | :---: |
+| ![Game Hub](PASTE_URL_GAMBAR_GAME) | ![Code Workspace](PASTE_URL_GAMBAR_CODE) |
+| *Library game, deteksi otomatis launcher & statistik sesi bermain* | *Project terbaru, peluncur IDE & heatmap aktivitas coding* |
+
+| Folder Favorit | Settings & Backup |
+| :---: | :---: |
+| ![Folder Favorit](PASTE_URL_GAMBAR_FOLDER) | ![Settings & Backup](PASTE_URL_GAMBAR_SETTINGS) |
+| *Akses cepat folder kerja, pin favorit & pratinjau drive* | *Tema musiman, Pixel Mode, Backup/Restore & pembaruan otomatis* |
