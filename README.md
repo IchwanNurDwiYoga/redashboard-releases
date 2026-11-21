@@ -39,7 +39,7 @@ Dikembangkan oleh **IchwanNurDwiYoga**
 ### Halaman Desktop
 *Pemantauan sistem real-time, Now Playing & lirik, cuaca, kalender KHGT, catatan jadwal, dan Quick Launch.*
 
-![Halaman Desktop ReDashboard]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ca280d5-a0ac-4fe0-9a2b-68b0d9f2ab9d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ca280d5-a0ac-4fe0-9a2b-68b0d9f2ab9d" />
 
 ### Halaman Lainnya
 
