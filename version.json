@@ -1,13 +1,12 @@
 {
-  "version": "0.1.0",
-  "published_at": "2026-11-21",
-  "release_url": "https://github.com/IchwanNurDwiYoga/redashboard-releases/releases/latest",
-  "download_url": "",
-  "sha256": "",
+  "version": "0.1.1",
+  "published_at": "2026-11-22",
+  "release_url": "https://github.com/IchwanNurDwiYoga/redashboard-releases/releases/tag/v0.1.1",
+  "download_url": "https://github.com/IchwanNurDwiYoga/redashboard-releases/releases/download/v0.1.1/ReDashboard-Setup-0.1.1.exe",
+  "sha256": "dfc48c5dbe12e3a15726e56ccd8f0e691a674dcca4683928a4e5156034c5b5ca",
   "changelog": [
-    "Rilis awal ReDashboard untuk Windows 10/11",
-    "Dashboard monitoring sistem, media & lirik, game hub, workspace coding, dan folder favorit",
-    "Fitur Backup & Restore (manual JSON selektif + auto-backup lokal)",
-    "Fitur pemeriksaan pembaruan aplikasi otomatis"
+    "Quick Tools: ganti Restart Explorer jadi Restart sistem, ganti Power Plan jadi Lock, rapikan susunan, dan tambah ikon Power",
+    "Game Hub: tambah opsi ganti Hero Background, ganti/reset Cover Icon, dan lokalisasi format waktu ke Bahasa Indonesia",
+    "Performa & stabilitas: jeda monitoring saat masuk system tray, perbaikan WinRT Media Session, dan lazy refresh UI"
   ]
 }
